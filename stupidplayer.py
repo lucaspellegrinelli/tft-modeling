@@ -1,6 +1,12 @@
+import random
 from tft.player import Player
 
 class StupidPlayer(Player):
+  def __init__(self):
+    super().__init__()
+    self.reroll_level = random.randint(7, 9)
+    self.critical_health = random.randint(20, 40)
+
   def find_worst_unit(self, where):
     worst_unit = None
     worst_score = 999999999999
@@ -48,15 +54,16 @@ class StupidPlayer(Player):
         while self.is_bench_full():
           self.sell_bad_units()
         
-        self.buy_unit(unit)
+        if self.gold >= unit.champion.cost:
+          self.buy_unit(unit)
         continue
-
-      worst_bench_unit, worst_bench_score = self.find_worst_unit(self.units_in_bench)
-      if worst_bench_score < unit_score:
-        self.sell_unit(worst_bench_unit)
-        while self.is_bench_full():
-          self.sell_bad_units()
-        self.buy_unit(unit)
+      else:
+        worst_bench_unit, worst_bench_score = self.find_worst_unit(self.units_in_bench)
+        if worst_bench_score < unit_score:
+          self.sell_unit(worst_bench_unit)
+          while self.is_bench_full():
+            self.sell_bad_units()
+          self.buy_unit(unit)
 
   def reorder_field(self):
     all_units = self.units_in_bench + self.units_in_play
@@ -76,11 +83,17 @@ class StupidPlayer(Player):
 
   def play_round(self, game):
     self.look_for_upgrades()
-    while self.gold >= 52:
-      self.reset_shop(game)
-      self.look_for_upgrades()
+
+    if self.health < self.critical_health:
+      while self.gold > 5:
+        self.reset_shop(game)
+        self.look_for_upgrades()
+    else:
+      while self.level < self.reroll_level and self.gold >= 54:
+        self.buy_xp()
+        
+      while self.level == self.reroll_level and self.gold >= 52:
+        self.reset_shop(game)
+        self.look_for_upgrades()
 
     self.reorder_field()
-
-    if self.level < Player.MAX_LEVEL:
-      self.buy_xp()

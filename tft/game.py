@@ -26,6 +26,8 @@ class TFTGame:
     PVPRound, PVPRound, PVPRound, CarouselRound, PVPRound, PVPRound, WolvesRound,
     PVPRound, PVPRound, PVPRound, CarouselRound, PVPRound, PVPRound, RaptorsRound,
     PVPRound, PVPRound, PVPRound, CarouselRound, PVPRound, PVPRound, DrakeRound,
+    PVPRound, PVPRound, PVPRound, CarouselRound, PVPRound, PVPRound, ElderOfHeraldRound,
+    PVPRound, PVPRound, PVPRound, CarouselRound, PVPRound, PVPRound, ElderOfHeraldRound,
     PVPRound, PVPRound, PVPRound, CarouselRound, PVPRound, PVPRound, ElderOfHeraldRound
   ]
 
@@ -35,10 +37,11 @@ class TFTGame:
     self.champion_pool = { champion.name: TFTGame.CHAMPION_POOL_SIZES[champion.cost - 1] for champion in self.champions }
     self.players = players
 
-  def run_game(self):
+  def run_game(self, round_callback=None):
     for round in TFTGame.ROUNDS:
       for player in self.players: player.pre_round()
       round().resolve(self)
+      if round_callback is not None: round_callback(self)
       if self.game_ended(): break
       for player in self.players: player.change_round()
       self.turn += 1

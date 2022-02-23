@@ -112,7 +112,7 @@ class Player:
   def sell_unit(self, unit):
     assert(isinstance(unit, Unit))
     assert(unit in self.units_in_play or unit in self.units_in_bench)
-    self.gold += unit.champion.cost
+    self.gold += unit.champion.cost * unit.stars - (unit.stars > 1)
     if unit in self.units_in_play: self.units_in_play.remove(unit)
     if unit in self.units_in_bench: self.units_in_bench.remove(unit)
     self.items += unit.items
