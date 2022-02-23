@@ -1,0 +1,686 @@
+[
+  {
+    "name": "B.F. Sword",
+    "composite": false
+  },
+  {
+    "name": "Recurve Bow",
+    "composite": false
+  },
+  {
+    "name": "Needlessly Large Rod",
+    "composite": false
+  },
+  {
+    "name": "Tear of the Goddess",
+    "composite": false
+  },
+  {
+    "name": "Chain Vest",
+    "composite": false
+  },
+  {
+    "name": "Negatron Cloak",
+    "composite": false
+  },
+  {
+    "name": "Giant's Belt",
+    "composite": false
+  },
+  {
+    "name": "Spatula",
+    "composite": false
+  },
+  {
+    "name": "Sparring Gloves",
+    "composite": false
+  },
+  {
+    "name": "Deathblade",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "B.F. Sword"
+    ]
+  },
+  {
+    "name": "Giant Slayer",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Hextech Gunblade",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Needlessly Large Rod"
+    ]
+  },
+  {
+    "name": "Spear of Shojin",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Edge of Night",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Chain Vest"
+    ]
+  },
+  {
+    "name": "Bloodthirster",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Zeke's Herald",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Giant's Belt"
+    ]
+  },
+  {
+    "name": "Striker Emblem",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Infinity Edge",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Giant Slayer",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Rapid Firecannon",
+    "composite": true,
+    "components": [
+      "Recurve Bow",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Guinsoo's Rageblade",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Statikk Shiv",
+    "composite": true,
+    "components": [
+      "Recurve Bow",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Titan's Resolve",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Runaan's Hurricane",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Zz'Rot Portal",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Challenger Emblem",
+    "composite": true,
+    "components": [
+      "Recurve Bow",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Last Whisper",
+    "composite": true,
+    "components": [
+      "Recurve Bow",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Hextech Gunblade",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Needlessly Large Rod"
+    ]
+  },
+  {
+    "name": "Guinsoo's Rageblade",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Rabadon's Deathcap",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Needlessly Large Rod"
+    ]
+  },
+  {
+    "name": "Archangel's Staff",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Locket of the Iron Solari",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Needlessly Large Rod"
+    ]
+  },
+  {
+    "name": "Ionic Spark",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Morellonomicon",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Needlessly Large Rod"
+    ]
+  },
+  {
+    "name": "Arcanist Emblem",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Jeweled Gauntlet",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Spear of Shojin",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Statikk Shiv",
+    "composite": true,
+    "components": [
+      "Recurve Bow",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Archangel's Staff",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Blue Buff",
+    "composite": true,
+    "components": [
+      "Tear of the Goddess",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Frozen Heart",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Chalice of Power",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Redemption",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Hextech Emblem",
+    "composite": true,
+    "components": [
+      "Spatula",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Hand Of Justice",
+    "composite": true,
+    "components": [
+      "Sparring Gloves",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Edge of Night",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Chain Vest"
+    ]
+  },
+  {
+    "name": "Titan's Resolve",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Locket of the Iron Solari",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Needlessly Large Rod"
+    ]
+  },
+  {
+    "name": "Frozen Heart",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Bramble Vest",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Chain Vest"
+    ]
+  },
+  {
+    "name": "Gargoyle Stoneplate",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Sunfire Cape",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Giant's Belt"
+    ]
+  },
+  {
+    "name": "Debonair Emblem",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Shroud of Stillness",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Bloodthirster",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Runaan's Hurricane",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Ionic Spark",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Chalice of Power",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Gargoyle Stoneplate",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Dragon's Claw",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Zephyr",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Mutant Emblem",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Quicksilver",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Zeke's Herald",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Giant's Belt"
+    ]
+  },
+  {
+    "name": "Zz'Rot Portal",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Recurve Bow"
+    ]
+  },
+  {
+    "name": "Morellonomicon",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Needlessly Large Rod"
+    ]
+  },
+  {
+    "name": "Redemption",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Sunfire Cape",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Giant's Belt"
+    ]
+  },
+  {
+    "name": "Zephyr",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Negatron Cloak"
+    ]
+  },
+  {
+    "name": "Warmog's Armor",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Giant's Belt"
+    ]
+  },
+  {
+    "name": "Chemtech Emblem",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Banshee's Claw",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Striker Emblem",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Challenger Emblem",
+    "composite": true,
+    "components": [
+      "Recurve Bow",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Arcanist Emblem",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Hextech Emblem",
+    "composite": true,
+    "components": [
+      "Spatula",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Debonair Emblem",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Mutant Emblem",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Chemtech Emblem",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Tactician's Crown",
+    "composite": true,
+    "components": [
+      "Spatula",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Assassin Emblem",
+    "composite": true,
+    "components": [
+      "Sparring Gloves",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Infinity Edge",
+    "composite": true,
+    "components": [
+      "B.F. Sword",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Last Whisper",
+    "composite": true,
+    "components": [
+      "Recurve Bow",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Jeweled Gauntlet",
+    "composite": true,
+    "components": [
+      "Needlessly Large Rod",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Hand Of Justice",
+    "composite": true,
+    "components": [
+      "Sparring Gloves",
+      "Tear of the Goddess"
+    ]
+  },
+  {
+    "name": "Shroud of Stillness",
+    "composite": true,
+    "components": [
+      "Chain Vest",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Quicksilver",
+    "composite": true,
+    "components": [
+      "Negatron Cloak",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Banshee's Claw",
+    "composite": true,
+    "components": [
+      "Giant's Belt",
+      "Sparring Gloves"
+    ]
+  },
+  {
+    "name": "Assassin Emblem",
+    "composite": true,
+    "components": [
+      "Sparring Gloves",
+      "Spatula"
+    ]
+  },
+  {
+    "name": "Thief's Gloves",
+    "composite": true,
+    "components": [
+      "Sparring Gloves",
+      "Sparring Gloves"
+    ]
+  }
+]

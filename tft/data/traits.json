@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Chemtech",
+    "levels": [3, 5, 7, 9]
+  },
+  {
+    "name": "Clockwork",
+    "levels": [2, 4, 6]
+  },
+  {
+    "name": "Debonair",
+    "levels": [3, 5, 7]
+  },
+  {
+    "name": "Enforcer",
+    "levels": [2, 4]
+  },
+  {
+    "name": "Glutton",
+    "levels": [1]
+  },
+  {
+    "name": "Hextech",
+    "levels": [2, 4, 6, 8]
+  },
+  {
+    "name": "Mastermind",
+    "levels": [1]
+  },
+  {
+    "name": "Mercenary",
+    "levels": [3, 5, 7]
+  },
+  {
+    "name": "Mutant",
+    "levels": [3, 5, 7]
+  },
+  {
+    "name": "Rival",
+    "levels": [1]
+  },
+  {
+    "name": "Scrap",
+    "levels": [2, 4, 6]
+  },
+  {
+    "name": "Socialite",
+    "levels": [1, 2, 3, 5]
+  },
+  {
+    "name": "Syndicate",
+    "levels": [3, 5, 7]
+  },
+  {
+    "name": "Yordle",
+    "levels": [3, 6]
+  },
+  {
+    "name": "Yordle-Lord",
+    "levels": [1]
+  },
+  {
+    "name": "Arcanist",
+    "levels": [2, 4, 6, 8]
+  },
+  {
+    "name": "Assassin",
+    "levels": [2, 4, 6]
+  },
+  {
+    "name": "Bodyguard",
+    "levels": [2, 4, 6, 8]
+  },
+  {
+    "name": "Bruiser",
+    "levels": [2, 4, 6, 8]
+  },
+  {
+    "name": "Challenger",
+    "levels": [2, 4, 6, 8]
+  },
+  {
+    "name": "Colossus",
+    "levels": [2]
+  },
+  {
+    "name": "Enchanter",
+    "levels": [2, 3, 4, 5]
+  },
+  {
+    "name": "Innovator",
+    "levels": [3, 5, 7]
+  },
+  {
+    "name": "Scholar",
+    "levels": [2, 4, 6]
+  },
+  {
+    "name": "Sniper",
+    "levels": [2, 4, 6]
+  },
+  {
+    "name": "Striker",
+    "levels": [2, 4, 6]
+  },
+  {
+    "name": "Transformer",
+    "levels": [1]
+  },
+  {
+    "name": "Twinshot",
+    "levels": [2, 3, 4, 5]
+  }
+]

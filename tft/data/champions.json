@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Ahri",
+    "cost": "4",
+    "traits": [
+      "Arcanist",
+      "Syndicate"
+    ]
+  },
+  {
+    "name": "Alistar",
+    "cost": "4",
+    "traits": [
+      "Colossus",
+      "Hextech"
+    ]
+  },
+  {
+    "name": "Ashe",
+    "cost": "2",
+    "traits": [
+      "Sniper",
+      "Syndicate"
+    ]
+  },
+  {
+    "name": "Blitzcrank",
+    "cost": "2",
+    "traits": [
+      "Bodyguard",
+      "Scrap"
+    ]
+  },
+  {
+    "name": "Brand",
+    "cost": "1",
+    "traits": [
+      "Arcanist",
+      "Debonair"
+    ]
+  },
+  {
+    "name": "Braum",
+    "cost": "4",
+    "traits": [
+      "Bodyguard",
+      "Syndicate"
+    ]
+  },
+  {
+    "name": "Caitlyn",
+    "cost": "1",
+    "traits": [
+      "Enforcer",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Camille",
+    "cost": "1",
+    "traits": [
+      "Challenger",
+      "Clockwork"
+    ]
+  },
+  {
+    "name": "ChoGath",
+    "cost": "3",
+    "traits": [
+      "Bruiser",
+      "Colossus",
+      "Mutant"
+    ]
+  },
+  {
+    "name": "Corki",
+    "cost": "2",
+    "traits": [
+      "Twinshot",
+      "Yordle"
+    ]
+  },
+  {
+    "name": "Darius",
+    "cost": "1",
+    "traits": [
+      "Bodyguard",
+      "Syndicate"
+    ]
+  },
+  {
+    "name": "Draven",
+    "cost": "4",
+    "traits": [
+      "Challenger",
+      "Debonair"
+    ]
+  },
+  {
+    "name": "Ekko",
+    "cost": "3",
+    "traits": [
+      "Assassin",
+      "Innovator",
+      "Scrap"
+    ]
+  },
+  {
+    "name": "Ezreal",
+    "cost": "1",
+    "traits": [
+      "Innovator",
+      "Scrap"
+    ]
+  },
+  {
+    "name": "Galio",
+    "cost": "5",
+    "traits": [
+      "Bodyguard",
+      "Colossus",
+      "Socialite"
+    ]
+  },
+  {
+    "name": "Gangplank",
+    "cost": "3",
+    "traits": [
+      "Mercenary",
+      "Twinshot"
+    ]
+  },
+  {
+    "name": "Gnar",
+    "cost": "3",
+    "traits": [
+      "Socialite",
+      "Striker",
+      "Yordle"
+    ]
+  },
+  {
+    "name": "Illaoi",
+    "cost": "1",
+    "traits": [
+      "Bruiser",
+      "Mercenary"
+    ]
+  },
+  {
+    "name": "Irelia",
+    "cost": "4",
+    "traits": [
+      "Scrap",
+      "Striker"
+    ]
+  },
+  {
+    "name": "JarvanIV",
+    "cost": "1",
+    "traits": [
+      "Hextech",
+      "Striker"
+    ]
+  },
+  {
+    "name": "Jayce",
+    "cost": "5",
+    "traits": [
+      "Enforcer",
+      "Innovator",
+      "Transformer"
+    ]
+  },
+  {
+    "name": "Jhin",
+    "cost": "4",
+    "traits": [
+      "Clockwork",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Jinx",
+    "cost": "5",
+    "traits": [
+      "Rival",
+      "Scrap",
+      "Twinshot"
+    ]
+  },
+  {
+    "name": "KaiSa",
+    "cost": "5",
+    "traits": [
+      "Challenger",
+      "Mutant"
+    ]
+  },
+  {
+    "name": "Kassadin",
+    "cost": "1",
+    "traits": [
+      "Mutant",
+      "Scholar"
+    ]
+  },
+  {
+    "name": "Khazix",
+    "cost": "4",
+    "traits": [
+      "Assassin",
+      "Mutant"
+    ]
+  },
+  {
+    "name": "Leona",
+    "cost": "3",
+    "traits": [
+      "Bodyguard",
+      "Debonair"
+    ]
+  },
+  {
+    "name": "Lucian",
+    "cost": "3",
+    "traits": [
+      "Hextech",
+      "Twinshot"
+    ]
+  },
+  {
+    "name": "Lulu",
+    "cost": "2",
+    "traits": [
+      "Enchanter",
+      "Yordle"
+    ]
+  },
+  {
+    "name": "Malzahar",
+    "cost": "3",
+    "traits": [
+      "Arcanist",
+      "Mutant"
+    ]
+  },
+  {
+    "name": "MissFortune",
+    "cost": "3",
+    "traits": [
+      "Mercenary",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Morgana",
+    "cost": "3",
+    "traits": [
+      "Enchanter",
+      "Syndicate"
+    ]
+  },
+  {
+    "name": "Nocturne",
+    "cost": "1",
+    "traits": [
+      "Assassin",
+      "Hextech"
+    ]
+  },
+  {
+    "name": "Orianna",
+    "cost": "4",
+    "traits": [
+      "Clockwork",
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "cost": "1",
+    "traits": [
+      "Bodyguard",
+      "Yordle"
+    ]
+  },
+  {
+    "name": "Quinn",
+    "cost": "2",
+    "traits": [
+      "Challenger",
+      "Mercenary"
+    ]
+  },
+  {
+    "name": "RekSai",
+    "cost": "2",
+    "traits": [
+      "Bruiser",
+      "Mutant",
+      "Striker"
+    ]
+  },
+  {
+    "name": "Renata Glasc",
+    "cost": "4",
+    "traits": [
+      "Chemtech",
+      "Scholar"
+    ]
+  },
+  {
+    "name": "Sejuani",
+    "cost": "2",
+    "traits": [
+      "Bruiser",
+      "Enforcer",
+      "Hextech"
+    ]
+  },
+  {
+    "name": "Senna",
+    "cost": "3",
+    "traits": [
+      "Enchanter",
+      "Socialite"
+    ]
+  },
+  {
+    "name": "Seraphine",
+    "cost": "4",
+    "traits": [
+      "Innovator",
+      "Socialite"
+    ]
+  },
+  {
+    "name": "Silco",
+    "cost": "5",
+    "traits": [
+      "Mastermind",
+      "Scholar"
+    ]
+  },
+  {
+    "name": "Singed",
+    "cost": "1",
+    "traits": [
+      "Chemtech",
+      "Innovator"
+    ]
+  },
+  {
+    "name": "Sivir",
+    "cost": "4",
+    "traits": [
+      "Hextech",
+      "Striker"
+    ]
+  },
+  {
+    "name": "Swain",
+    "cost": "2",
+    "traits": [
+      "Arcanist",
+      "Hextech"
+    ]
+  },
+  {
+    "name": "Syndra",
+    "cost": "2",
+    "traits": [
+      "Debonair",
+      "Scholar"
+    ]
+  },
+  {
+    "name": "Tahm Kench",
+    "cost": "5",
+    "traits": [
+      "Bruiser",
+      "Glutton",
+      "Mercenary"
+    ]
+  },
+  {
+    "name": "Talon",
+    "cost": "2",
+    "traits": [
+      "Assassin",
+      "Debonair"
+    ]
+  },
+  {
+    "name": "Tryndamere",
+    "cost": "3",
+    "traits": [
+      "Challenger",
+      "Chemtech"
+    ]
+  },
+  {
+    "name": "Twitch",
+    "cost": "1",
+    "traits": [
+      "Assassin",
+      "Chemtech"
+    ]
+  },
+  {
+    "name": "Veigar",
+    "cost": "5",
+    "traits": [
+      "Yordle-Lord"
+    ]
+  },
+  {
+    "name": "Vex",
+    "cost": "3",
+    "traits": [
+      "Arcanist",
+      "Yordle"
+    ]
+  },
+  {
+    "name": "Vi",
+    "cost": "4",
+    "traits": [
+      "Bruiser",
+      "Enforcer",
+      "Rival"
+    ]
+  },
+  {
+    "name": "Viktor",
+    "cost": "5",
+    "traits": [
+      "Arcanist",
+      "Chemtech"
+    ]
+  },
+  {
+    "name": "Warwick",
+    "cost": "2",
+    "traits": [
+      "Challenger",
+      "Chemtech"
+    ]
+  },
+  {
+    "name": "Zac",
+    "cost": "3",
+    "traits": [
+      "Bruiser",
+      "Chemtech"
+    ]
+  },
+  {
+    "name": "Zeri",
+    "cost": "5",
+    "traits": [
+      "Debonair",
+      "Sniper"
+    ]
+  },
+  {
+    "name": "Ziggs",
+    "cost": "1",
+    "traits": [
+      "Arcanist",
+      "Scrap",
+      "Yordle"
+    ]
+  },
+  {
+    "name": "Zilean",
+    "cost": "2",
+    "traits": [
+      "Clockwork",
+      "Innovator"
+    ]
+  },
+  {
+    "name": "Zyra",
+    "cost": "2",
+    "traits": [
+      "Scholar",
+      "Syndicate"
+    ]
+  }
+]
