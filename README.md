@@ -4,4 +4,4 @@ An implementation of the logic of the game "Teamfight Tactics" in python so it c
 
 ## Warning
 
-This was built using Set 6.0 data. So new mechanics and units are not present
+This was built using Set 6.5 data. So new mechanics and units are not present
